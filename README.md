@@ -1,9 +1,10 @@
 # Sup 🤙
 
-<img src="https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" width="480" height="360"/>
 
 ### Physics researcher and developer 🧪
 I'm a Mexico based 20 year old backend developer, data analyst and solar cell researcher. I'm currently working on a machine learning C library to learn about the field.
+
+<img src="https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" width="480" height="360"/>
 
 ## 🧠 Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/I-Am-Xil)
