@@ -1,6 +1,6 @@
 # Sup 🤙
 
-<img src="[https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif](https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif)" width="480" height="360"/>
+<img src="https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" width="480" height="360"/>
 
 ### Physics researcher and developer 🧪
 I'm a Mexico based 20 year old backend developer, data analyst and solar cell researcher. I'm currently working on a machine learning C library to learn about the field.
@@ -20,6 +20,9 @@ I'm a Mexico based 20 year old backend developer, data analyst and solar cell re
 [![Latex](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex)](https://github.com/I-Am-Xil)
 [![Tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logo=tidyverse)](https://github.com/I-Am-Xil)
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/I-Am-Xil)
+[![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/I-Am-Xil)
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/I-Am-Xil)
+[![Alexa](https://img.shields.io/badge/amazonalexa-black?style=for-the-badge&logo=amazonalexa)](https://github.com/I-Am-Xil)
 
 <!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/I-Am-Xil) -->
 
