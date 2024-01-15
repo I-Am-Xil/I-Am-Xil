@@ -13,6 +13,8 @@ I'm a Mexico based 20 year old backend developer, data analyst and solar cell re
 [![Fortran](https://img.shields.io/badge/fortran-black?style=for-the-badge&logo=fortran)](https://github.com/I-Am-Xil)
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/I-Am-Xil)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/I-Am-Xil)
+[![GD Script](https://img.shields.io/badge/gd-script?style=for-the-badge&logo=godot-engine&color=black)](https://github.com/I-Am-Xil)
+
 
 
 ## 💻 Technologies & Frameworks
@@ -25,7 +27,8 @@ I'm a Mexico based 20 year old backend developer, data analyst and solar cell re
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/I-Am-Xil)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/I-Am-Xil)
 [![Alexa](https://img.shields.io/badge/amazonalexa-black?style=for-the-badge&logo=amazonalexa)](https://github.com/I-Am-Xil)
-[![Godot](https://img.shields.io/badge/Made%20with-Godot-478CBF?style=for-the-badge&logo=godot%20engine&logoColor=black)](https://github.com/I-Am-Xil)
+[![Godot](https://img.shields.io/badge/godot-engine?style=for-the-badge&logo=godot-engine&color=black)](https://github.com/I-Am-Xil)
+
 
 <!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/I-Am-Xil) -->
 
