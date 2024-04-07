@@ -2,7 +2,7 @@
 
 
 ### Physics researcher and developer 🧪
-I'm a Mexico based 21 year old backend developer, data analyst and solar cell researcher. I'm currently working on a machine learning C library to learn about the field.
+I'm a Mexico based 21 year old backend developer, data analyst and solar cell researcher. I'm currently working on shader creation with GLSL, sound design with ChucK coding language, video game development and .NET MAUI applications.
 
 <img src="https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" width="480" height="360"/>
 
