@@ -14,6 +14,10 @@ I'm a Mexico based 21 year old backend developer, data analyst and solar cell re
 [![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/I-Am-Xil)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/I-Am-Xil)
 [![GD Script](https://img.shields.io/badge/gd-script?style=for-the-badge&logo=godot-engine&color=black)](https://github.com/I-Am-Xil)
+[![GLSL](https://img.shields.io/badge/GLSL-black?style=for-the-badge&logo=OpenGL&logoColor=white)](https://github.com/I-Am-Xil)
+[![ChucK](https://img.shields.io/badge/ChucK-black?style=for-the-badge&logo=ChucK&logoColor=white)](https://github.com/I-Am-Xil)
+
+
 
 
 
@@ -23,11 +27,12 @@ I'm a Mexico based 21 year old backend developer, data analyst and solar cell re
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/I-Am-Xil)
 [![Latex](https://img.shields.io/badge/latex-black?style=for-the-badge&logo=latex)](https://github.com/I-Am-Xil)
 [![Tidyverse](https://img.shields.io/badge/tidyverse-black?style=for-the-badge&logo=tidyverse)](https://github.com/I-Am-Xil)
-[![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/I-Am-Xil)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/I-Am-Xil)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/I-Am-Xil)
 [![Alexa](https://img.shields.io/badge/amazonalexa-black?style=for-the-badge&logo=amazonalexa)](https://github.com/I-Am-Xil)
 [![Godot](https://img.shields.io/badge/godot-engine?style=for-the-badge&logo=godot-engine&color=black)](https://github.com/I-Am-Xil)
+[![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=Blender&logoColor=white)](https://github.com/I-Am-Xil)
+
 
 
 <!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/I-Am-Xil) -->
