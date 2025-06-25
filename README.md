@@ -1,10 +1,15 @@
-# Sup 🤙
+# 🔮 Graphics Wizard Raccoon
+I'm a Mexico based 22 year old graphics programmer, physics, math and computer science researcher, and animation major.
 
+My current work includes: 
 
-### Physics researcher and developer 🧪
-I'm a Mexico based 21 year old backend developer, data analyst and solar cell researcher. I'm currently working on shader creation with GLSL, sound design with the ChucK language, video game development with the Godot Engine and .NET MAUI applications.
+- **Algorithmic Art** with GLSL.
+- **Solomon** — A geometric algebra math engine for Vulkan pipelines and fast mathematical prototyping.
+- **GEOFF** — An AI research project through geometric algebra.
+- **SGSL (Solomon Geometric Shader Language)** — A custom shader language based on geometric algebra.
+- **Game Development** with the Godot Engine.
 
-<img src="https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" width="480" height="360"/>
+[//]: # (<img src="https://media1.giphy.com/media/MKorKFj0Muz4P0CI7D/giphy.gif" width="480" height="360"/>)
 
 ## 🧠 Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/I-Am-Xil)
@@ -35,26 +40,10 @@ I'm a Mexico based 21 year old backend developer, data analyst and solar cell re
 
 
 
-<!-- [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/I-Am-Xil) -->
 
 
-## 🎧 Now listening
-[![Now Listening](https://spotify-github-profile.kittinanx.com/api/view?uid=22mcfdud6euu4hq4g5nhubfmi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.app/api/view?uid=22mcfdud6euu4hq4g5nhubfmi&redirect=true)
-
-## 📊 Stats
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=I-Am-Xil&hide=jupyter%20notebook&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## 🗨️ Socials
+![Instagram](https://img.shields.io/badge/Instagram%20-%20black?style=for-the-badge&logo=Instagram&link=https%3A%2F%2Fwww.instagram.com%2Fxil.artist%2F)
+![LinkedIn](https://img.shields.io/badge/Linkedin%20-%20black?style=for-the-badge&logo=Linked%20In&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Floganmartinez-in%2F)
 
 
-<!--
-**I-Am-Xil/I-Am-Xil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
